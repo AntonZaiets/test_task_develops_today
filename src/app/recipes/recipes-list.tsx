@@ -73,9 +73,9 @@ export default function RecipesList() {
                     <img
                         src={recipe.image}
                         alt={recipe.title}
-                        className="w-full h-40 object-cover rounded"
+                        className="w-full h-100 object-cover rounded"
                     />
-                    <h2 className="mt-2 text-lg font-semibold">{recipe.title}</h2>
+                    <h2 className="mt-2 text-lg font-semibold text-gray-500">{recipe.title}</h2>
                 </div>
             ))}
         </div>
