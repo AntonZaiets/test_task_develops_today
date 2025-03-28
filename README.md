@@ -1,16 +1,16 @@
-## Recipe Finder App
+# Recipe Finder App
 
-# Features
+#№ Features
 - Search Recipes: Users can search for recipes based on a keyword, cuisine, or maximum preparation time.
 
 - Filter Recipes: Allows filtering by cuisine (e.g., Italian, Mexican, Chinese) and maximum preparation time.
 -  
 -Error Handling: Displays appropriate error messages if no recipes are found or if there's an issue with fetching data from the API.
 
-## Architecture
+# Architecture
 The app is built using Next.js with the following key components:
 
-# Pages:
+#№ Pages:
 
 / (Home Page): The main page where users can enter search queries, choose a cuisine, and specify a maximum preparation time.
 
